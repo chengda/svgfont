@@ -1,7 +1,7 @@
 # svgfont
 SVG图片与字体格式转换
 
-# example
+# 从SVG格式的字体文件中导出SVG图标
 
 代码：
 ```
