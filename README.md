@@ -5,7 +5,7 @@ SVG图片与字体格式转换
 
 代码：
 ```
-File fontFile=new File(".iconfont.svg");
+File fontFile=new File("./iconfont.svg");
 File outputDir = new File("./svgoutput");
 FontParser.parse(fontFile, outputDir);
 ```
